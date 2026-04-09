@@ -1,28 +1,40 @@
 ## PhotoRealism
 연예인 프레임을 사용자에 맞게 조정하여 보다 자연스러운 사진을 제공하는 프로젝트
 
+
 ## 주제 선정 동기
-![image](https://github.com/user-attachments/assets/08bc181f-e770-4a65-8d53-d4b3a83858e1)
-![image](https://github.com/user-attachments/assets/a4817c4c-c54d-48b8-8f45-0cc834a70952)
-![image](https://github.com/user-attachments/assets/b0291a68-7e72-4708-b069-f8ecc9a85fa7)
+![4](https://github.com/user-attachments/assets/23578fb6-ce42-48ba-8ed7-8f4d676e353b)
+![5](https://github.com/user-attachments/assets/23c0f7b3-0bc5-43bb-8a78-22cace80ea27)
+![6](https://github.com/user-attachments/assets/68fd628d-9230-4159-a7ed-75b52c8e2d14)
+
 ## 주요 도전 과제
-![image](https://github.com/user-attachments/assets/eada081b-e40b-4a2a-bf3b-119e0cf219ca)
+![8](https://github.com/user-attachments/assets/a7aa06d6-dcc1-4b0c-9098-b6dd7ff983f8)
 
-## 사람 탐지 및 좌우 반전
-![image](https://github.com/user-attachments/assets/5a3701d2-baff-4369-a2ef-f8df80100338)
-![image](https://github.com/user-attachments/assets/63cbe477-4611-49fc-8f6d-7d7b7bc89474)
 
-## 깊이 조절 시스템
-![image](https://github.com/user-attachments/assets/54e51ead-37d7-41c2-a942-82021b3ef775)
-![image](https://github.com/user-attachments/assets/710c0318-c9ab-488f-a164-bf3a01246bbf)
-![image](https://github.com/user-attachments/assets/51dc07be-8e22-4c1b-9ca3-81a3ba255b8e)
+##  STAGE1. YOLO v4 Tiny를 통한 사람 탐지 및 좌우 반전
+![인생네컷 PPT](https://github.com/user-attachments/assets/ae6db3d0-f2c7-4bbc-8c44-7eb73f4d8815)
+![인생네컷 PPT (1)](https://github.com/user-attachments/assets/64bc2cca-d7b3-411c-b869-cabf64c7052d)
 
-## 색감 조정
-![image](https://github.com/user-attachments/assets/699ad370-cf77-4416-9ffa-b3ada409daca)
-![image](https://github.com/user-attachments/assets/d60ef7f3-9194-4735-b73a-3058b145e912)
+## 연예인 프레임 크기 조절 시스템
+![인생네컷 PPT (2)](https://github.com/user-attachments/assets/d605c2a6-01fd-459f-a546-6ccdc57ead8b)
+
+## STAGE 3. 톤동기화
+![인생네컷 PPT (3)](https://github.com/user-attachments/assets/cac0643a-bfe3-4ce1-b1d3-0c02f6380a16)
+![인생네컷 PPT (4)](https://github.com/user-attachments/assets/e40d35ce-ee1d-436b-bbe3-2005a0511a53)
+
+## STAGE 4. 연예인 필터 얼굴 색감 추출 후 히스토그램 매칭
+![인생네컷 PPT (5)](https://github.com/user-attachments/assets/ececd80e-53dc-4150-9566-2bcbffef3233)
+![인생네컷 PPT (6)](https://github.com/user-attachments/assets/a0fb644f-7970-4995-a097-d80e119f69de)
+
 
 ## 구현 영상
-https://github.com/user-attachments/assets/a0a12c94-0b93-49da-8821-c795baa2ac5c
+
+https://github.com/user-attachments/assets/17ef6153-02fc-4c82-939d-6d1fbb9b5f5e
+
+## 최종 결과물
+![인생네컷 PPT](https://github.com/user-attachments/assets/b0773893-8276-4b17-a378-0eda512c25ac)
+![인생네컷 PPT (1)](https://github.com/user-attachments/assets/7162ea6a-dd6e-4811-9f24-268a78f13f04)
+
 
 ## 기술 스택
 
